@@ -1,0 +1,22 @@
+# Environnement virtuel
+venv/
+
+
+# Fichiers Python compilés
+__ pycache__/
+*.pyc
+*.pyo
+
+#Base de données local
+db.sqlite3
+
+# Variable d'environnement (secrets !)
+.env
+
+# Fichiers statique collectés
+staticfiles/
+
+# IDE
+.vscode/
+.idea/
+
